@@ -1,0 +1,5 @@
+annotations:
+  headlamp/plugin/archive-url: "https://github.com/headlamp-k8s/plugins/releases/download/app-catalog-0.1.4/app-catalog-0.1.4.tgz"
+  headlamp/plugin/archive-checksum: "37ed9ebad5c2ff85848c040ac1903317"
+  headlamp/plugin/version-compat: ">=1.2.3"
+  headlamp/plugin/distro-compat: "in-cluster,web,docker-desktop"
