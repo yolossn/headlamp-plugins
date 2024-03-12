@@ -2,6 +2,7 @@ version: 0.0.1
 name: prometheus_headlamp_plugin
 displayName: Prometheus Headlamp Plugin
 createdAt: "2024-02-25T05:35:50Z"
+logoURL: "https://prometheus.io/assets/prometheus_logo_grey.svg"
 description: Prometheus plugin for Headlamp
 annotations:
   headlamp/plugin/archive-url: "https://github.com/headlamp-k8s/plugins/releases/download/prometheus-0.0.2/prometheus-0.0.2.tgz"
