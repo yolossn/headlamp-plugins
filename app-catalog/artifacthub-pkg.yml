@@ -1,8 +1,8 @@
 version: 0.0.1
 name: appcatalog_headlamp_plugin
-displayName: App catalog Headlamp Plugin
+displayName: App catalog Headlamp Plugin Test
 createdAt: "2024-02-25T05:35:50Z"
-logoURL: "https://icons.veryicon.com/png/o/miscellaneous/template-3/shopping-cart-94.png"
+logoURL: "https://avatars.githubusercontent.com/u/7195757?s=200&v=4"
 description: App catalog plugin for Headlamp
 annotations:
   headlamp/plugin/archive-url: "https://github.com/headlamp-k8s/plugins/releases/download/app-catalog-0.1.4/app-catalog-0.1.4.tgz"

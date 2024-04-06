@@ -1,8 +1,8 @@
 version: 0.0.1
 name: ai_plugin
-displayName: AI Headlamp Plugin
+displayName: AI Headlamp Plugin Test
 createdAt: "2024-02-25T05:35:50Z"
-logoURL: "https://ai.io/assets/prometheus_logo_grey.svg"
+logoURL: "https://github.com/grafana/loki/raw/main/docs/sources/logo_and_name.png"
 description: AI plugin for Headlamp
 annotations:
   headlamp/plugin/archive-url: "https://github.com/headlamp-k8s/plugins/releases/download/prometheus-0.0.2/prometheus-0.0.2.tgz"
