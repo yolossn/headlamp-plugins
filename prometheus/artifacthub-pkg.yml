@@ -5,7 +5,7 @@ createdAt: "2024-02-25T05:35:50Z"
 logoURL: "https://avatars.githubusercontent.com/u/3380462?s=200&v=4"
 description: Prometheus plugin for Headlamp
 annotations:
-  headlamp/plugin/archive-url: "https://github.com/headlamp-k8s/plugins/releases/download/prometheus-0.0.2/prometheus-0.0.2.tgz"
-  headlamp/plugin/archive-checksum: "8df9109a2f3a7604f63f7d3f462435e4"
+  headlamp/plugin/archive-url: "https://github.com/yolossn/headlamp-plugins/raw/main/prometheus/prometheus-0.0.2.tgz"
+  headlamp/plugin/archive-checksum: "970c5b0c121fa304b7ad4c577a39b41c"
   headlamp/plugin/version-compat: ">=1.2.3"
   headlamp/plugin/distro-compat: "in-cluster,web,docker-desktop"
