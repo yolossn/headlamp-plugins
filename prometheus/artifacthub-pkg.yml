@@ -7,5 +7,5 @@ description: Prometheus plugin for Headlamp
 annotations:
   headlamp/plugin/archive-url: "https://github.com/yolossn/headlamp-plugins/raw/main/prometheus/prometheus-0.0.2.tgz"
   headlamp/plugin/archive-checksum: "SHA256:3c8d2fa3abc948c005cc94497324f19a4121d55e5255c780a364062a570df18f"
-  headlamp/plugin/version-compat: ">=1.2.3"
+  headlamp/plugin/version-compat: ">=0.22"
   headlamp/plugin/distro-compat: "in-cluster,web,docker-desktop"
