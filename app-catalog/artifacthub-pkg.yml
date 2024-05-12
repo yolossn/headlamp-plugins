@@ -7,5 +7,5 @@ description: App catalog plugin for Headlamp
 annotations:
   headlamp/plugin/archive-url: "https://github.com/yolossn/headlamp-plugins/raw/main/app-catalog/app-catalog-0.1.4.tgz"
   headlamp/plugin/archive-checksum: "SHA256:7ddb9ac96c113f607a3077a3afaaf5cfc654da65db193da08c17db2e96b0956c"
-  headlamp/plugin/version-compat: ">=1.2.3"
+  headlamp/plugin/version-compat: ">=0.22"
   headlamp/plugin/distro-compat: "in-cluster,web,docker-desktop"
